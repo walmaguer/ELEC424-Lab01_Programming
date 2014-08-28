@@ -23,4 +23,6 @@ Q7. What is the difference between incrementing int* and char* by 1 (i.e. ((int 
 
 Q8. Are the input arrays passed by reference or value to merge_sort?
 
-Q9. Use your justifytext script to justify this writeup (after completing it) to a length of 80 characters.
+Q9. What is the difference between #include "header.h" and #include <header.h>?
+
+Q10. Use your justifytext script to justify this writeup (after completing it) to a length of 80 characters.
